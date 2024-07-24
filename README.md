@@ -1,8 +1,5 @@
 # Trip Sketcher
-<img
-  src="https://github.com/sangmokchoi/Trip Sketcher/assets/63656142/b499fda1-5612-49f5-9af2-5e42e52c3887"
-  width="50%"
-/>
+![TWP4BG_1](https://github.com/user-attachments/assets/51efcc08-2277-4b40-a820-82b3d60ecfd3)
 </br>
 
 ## 00. 개요

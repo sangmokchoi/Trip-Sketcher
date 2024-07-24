@@ -1,5 +1,9 @@
 # Trip Sketcher
-![TWP4BG_1](https://github.com/user-attachments/assets/51efcc08-2277-4b40-a820-82b3d60ecfd3)
+
+<img
+  src="https://github.com/user-attachments/assets/51efcc08-2277-4b40-a820-82b3d60ecfd3"
+  width="50%"
+/>
 </br>
 
 ## 00. 개요
